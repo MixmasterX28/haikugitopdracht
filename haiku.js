@@ -46,6 +46,12 @@ function Haiku6(){
     console.log("On a day in spring. ");
 }
 
+function Haiku7(){
+    console.log("haiku by:" , "Troy")
+    console.log("First autumn morning")
+    console.log("the mirror ")
+    console.log("I stare into shows my father's face.")
+}
 //laat de code hieronder met rust
 Haiku1()
 Haiku2()
