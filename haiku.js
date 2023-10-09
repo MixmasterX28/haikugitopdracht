@@ -32,6 +32,13 @@ function Haiku4(){
     console.log("To the rain in the mountain.");
 }
 
+function Haiku5(){
+    console.log("haiku by:" , "Adrian");
+    console.log("Don’t weep, insects");
+    console.log("Lovers, stars themselves,");
+    console.log("Must part. ");
+}
+
 //laat de code hieronder met rust
 Haiku1()
 Haiku2()
