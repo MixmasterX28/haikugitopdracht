@@ -17,10 +17,6 @@ function Haiku2(){
 }
 
 
-console.log("Over-ripe sushi, The Master Is full of regret.")
-console.log("Consider me As one who loved poetry And persimmons.")
-console.log("In the cicada's cry No sign can foretell How soon it must die.")
-
 function Haiku3(){
     console.log("haiku by matsuo basho")
     console.log("An old silent pond...")
