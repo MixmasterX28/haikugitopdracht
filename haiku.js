@@ -39,6 +39,13 @@ function Haiku5(){
     console.log("Must part. ");
 }
 
+function Haiku6(){
+    console.log("haiku by:" , "Adrian ");
+    console.log("Toward those short trees ");
+    console.log("We saw a hawk descending ");
+    console.log("On a day in spring. ");
+}
+
 //laat de code hieronder met rust
 Haiku1()
 Haiku2()
