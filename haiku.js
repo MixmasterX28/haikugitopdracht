@@ -14,7 +14,12 @@ console.log("An old silent pond...")
 console.log("A frog jumps into the pond,")
 console.log("splash! Silence again.")
 
-
+function HaikuX(){
+    console.log("haiku by:","Troy");
+    console.log("Winter seclusion - Listening");
+    console.log("that evening, ");
+    console.log("To the rain in the mountain.");
+}
 
 //laat de code hieronder met rust
 Haiku1()
